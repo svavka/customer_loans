@@ -1,0 +1,7 @@
+spring:
+  application.name: Service for customer loans
+  jpa.hibernate.ddl-auto: validate
+
+server-checker:
+  host: 100.100.100.100
+  port: 1212
