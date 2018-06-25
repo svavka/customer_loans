@@ -43,12 +43,6 @@
         </dependency>
 
         <dependency>
-            <groupId>ru.sbt.demo</groupId>
-            <artifactId>credit-granting-access-spring-boot-starter</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-
-        <dependency>
             <groupId>org.modelmapper</groupId>
             <artifactId>modelmapper</artifactId>
             <version>1.1.0</version>
